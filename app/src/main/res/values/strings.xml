@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Записная книжка в SharedPreferences</string>
+    <string name="btnSave">Сохранить</string>
+    <string name="enter_note_text">Введите текст заметки</string>
+</resources>
